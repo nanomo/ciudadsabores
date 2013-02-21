@@ -1,0 +1,98 @@
+[
+    {
+        "state": "Capital Federal",
+        "country": "Argentina"
+    },
+    {
+        "state": "Buenos Aires",
+        "country": "Argentina"
+    },
+    {
+        "state": "Catamarca",
+        "country": "Argentina"
+    },
+    {
+        "state": "Chaco",
+        "country": "Argentina"
+    },
+    {
+        "state": "Chubut",
+        "country": "Argentina"
+    },
+    {
+        "state": "Cordoba",
+        "country": "Argentina"
+    },
+    {
+        "state": "Corrientes",
+        "country": "Argentina"
+    },
+    {
+        "state": "Entre Rios",
+        "country": "Argentina"
+    },
+    {
+        "state": "Formosa",
+        "country": "Argentina"
+    },
+    {
+        "state": "Jujuy",
+        "country": "Argentina"
+    },
+    {
+        "state": "La Pampa",
+        "country": "Argentina"
+    },
+    {
+        "state": "La Rioja",
+        "country": "Argentina"
+    },
+    {
+        "state": "Mendoza",
+        "country": "Argentina"
+    },
+    {
+        "state": "Misiones",
+        "country": "Argentina"
+    },
+    {
+        "state": "Neuquen",
+        "country": "Argentina"
+    },
+    {
+        "state": "Rio Negro",
+        "country": "Argentina"
+    },
+    {
+        "state": "Salta",
+        "country": "Argentina"
+    },
+    {
+        "state": "San Juan",
+        "country": "Argentina"
+    },
+    {
+        "state": "San Luis",
+        "country": "Argentina"
+    },
+    {
+        "state": "Santa Cruz",
+        "country": "Argentina"
+    },
+    {
+        "state": "Santa Fe",
+        "country": "Argentina"
+    },
+    {
+        "state": "Santiago del Estero",
+        "country": "Argentina"
+    },
+    {
+        "state": "Tierra del Fuego",
+        "country": "Argentina"
+    },
+    {
+        "state": "Tucuman",
+        "country": "Argentina"
+    }
+]
